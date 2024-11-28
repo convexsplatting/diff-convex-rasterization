@@ -1,15 +1,23 @@
 #
-# Copyright (C) 2024, Inria, University of Liege, KAUST and University of Oxford
+# The original code is under the following copyright:
+# Copyright (C) 2023, Inria
 # GRAPHDECO research group, https://team.inria.fr/graphdeco
+# All rights reserved.
+#
+# This software is free for non-commercial, research and evaluation use 
+# under the terms of the LICENSE_GS.md file.
+#
+# For inquiries contact george.drettakis@inria.fr
+#
+# The modifications of the code are under the following copyright:
+# Copyright (C) 2024, University of Liege, KAUST and University of Oxford
 # TELIM research group, http://www.telecom.ulg.ac.be/
 # IVUL research group, https://ivul.kaust.edu.sa/
 # VGG research group, https://www.robots.ox.ac.uk/~vgg/
 # All rights reserved.
+# The modifications are under the LICENSE.md file.
 #
-# This software is free for non-commercial, research and evaluation use 
-# under the terms of the LICENSE.md file.
-#
-# For inquiries contact  jan.held@uliege.be
+# For inquiries contact jan.held@uliege.be
 #
 
 from typing import NamedTuple
