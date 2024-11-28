@@ -14,7 +14,7 @@ year = {2024},
 eprint = {2411.14974},
 eprinttype = {arXiv},
 doi = {10.48550/arXiv.2411.14974},
-url = {https://doi.org/10.48550/arXiv.2411.14974
+url = {https://doi.org/10.48550/arXiv.2411.14974}
 }</code></pre>
   </div>
 </section>
